@@ -10,13 +10,6 @@
   },
   "type": "library",
   "dependencies": {
-    "com.ahengine.uhttp": "https://github.com/ahengine/UHTTP.git#1.0.6",
-    "com.ahengine.upatterns": "https://github.com/ahengine/UPatterns.git#main",
-    "com.ahengine.uscreens": "https://github.com/ahengine/UScreens.git#main",
-    "com.ahengine.ustyler": "https://github.com/ahengine/UStyler.git#main",
-    "com.unity.textmeshpro": "3.0.8",
-    "com.unity.ide.vscode": "1.2.5",
-    "com.unity.ide.visualstudio": "2.0.22",
-    "com.unity.ugui": "1.0.0"
+    "com.ahengine.uhttp": "https://github.com/ahengine/UHTTP.git#1.0.6"
   }
 }
