@@ -10,6 +10,6 @@
   },
   "type": "library",
   "dependencies": {
-    "com.ahengine.uhttp": "https://github.com/ahengine/UHTTP.git#1.0.6"
+    "com.ahengine.uhttp": "1.0.6"
   }
 }
