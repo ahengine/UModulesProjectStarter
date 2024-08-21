@@ -1,0 +1,22 @@
+{
+  "name": "com.ahengine.ustyler",
+  "version": "1.0.0",
+  "displayName": "UStyler",
+  "description": "UStyler is minimal UI Style handler, based on Design System",
+  "unity": "2021.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Hamidreza Karamian"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.ahengine.uhttp": "https://github.com/ahengine/UHTTP.git",
+    "com.ahengine.upatterns": "https://github.com/ahengine/UPatterns.git",
+    "com.ahengine.uscreens": "https://github.com/ahengine/UScreens.git",
+    "com.ahengine.ustyler": "https://github.com/ahengine/UStyler.git",
+    "com.unity.textmeshpro": "3.0.8",
+    "com.unity.ide.vscode": "1.2.5",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.ugui": "1.0.0"
+  }
+}
