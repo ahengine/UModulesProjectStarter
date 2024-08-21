@@ -10,7 +10,7 @@
   },
   "type": "library",
   "dependencies": {
-    "com.ahengine.uhttp": "https://github.com/ahengine/UHTTP.git#main",
+    "com.ahengine.uhttp": "https://github.com/ahengine/UHTTP.git#1.0.6",
     "com.ahengine.upatterns": "https://github.com/ahengine/UPatterns.git#main",
     "com.ahengine.uscreens": "https://github.com/ahengine/UScreens.git#main",
     "com.ahengine.ustyler": "https://github.com/ahengine/UStyler.git#main",
